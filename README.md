@@ -1,12 +1,8 @@
-# AWS Certification Practice
+# ☁️ AWS Certification Practice
 
 This repository aims to collect AWS Certificate exam questions organized by topic
 
-## Disclaimer
-
-This is as WIP
-
-- Cloud
+- Cloud Computing
 - [IAM](./IAM)
 - EC2
 - EC2 Storage
@@ -21,3 +17,5 @@ This is as WIP
 - Monitoring
 - Machine Learning
 - Billing
+
+ps: WIP
