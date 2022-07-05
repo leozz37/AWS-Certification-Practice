@@ -2,7 +2,7 @@
 
 This repository aims to collect AWS Certificate exam questions organized by topic
 
-- Cloud Computing
+- [Cloud Computing](./Cloud%20Computing)
 - [IAM](./IAM)
 - EC2
 - EC2 Storage
