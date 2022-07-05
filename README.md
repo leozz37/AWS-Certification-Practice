@@ -7,7 +7,7 @@ This repository aims to collect AWS Certificate exam questions organized by topi
 This is as WIP
 
 - Cloud
-- IAM
+- [IAM](./IAM)
 - EC2
 - EC2 Storage
 - ELB
